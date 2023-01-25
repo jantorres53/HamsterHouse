@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Rincon Torres Juan Antonio 
-- Placios Rangel Maria Fernanda
+- Palacios Rangel Maria Fernanda
 - Cruz Breña Daniela Janeth
 - Garay Garcia Omar Ricardo
 
