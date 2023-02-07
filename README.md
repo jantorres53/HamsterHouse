@@ -51,3 +51,4 @@ manteniendo un registro de las actividades del hamster, como su entorno.
 
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
+![image](https://user-images.githubusercontent.com/123511310/217364060-e728b225-e7b8-4dcc-b162-c0928528be56.png)
